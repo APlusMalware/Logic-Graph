@@ -1,6 +1,5 @@
 syntax: glob
-APlusMalware.LogicGraph/obj/
-APlusMalware.LogicGraphConsoleTester/obj
-APlusMalware.LogicGraphConsoleTester/bin/
-APlusMalware.LogicGraph/bin/
 *.suo
+*/bin/*
+*/obj/*
+*StyleCop*
